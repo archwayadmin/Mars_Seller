@@ -1,0 +1,21 @@
+{ 
+   "testdata":{ 
+      "ProductID":"test15",
+      "ProductName":"test",
+      "ProductDescription":"test",
+      "DefaultPriceScheduleID":"15DollarSchedule",
+      "EffectiveDate":"12-22-2019",
+      "ExpiryDate":"12-31-2019",
+      "Activecheck":"Active",
+      "Featuredcheck":"Featured",
+      "ApprovalRequiredCheck":"Approval Required",
+      "ProductBasicInfotext":"Create A New Product - Basic Info",
+      "ProductIDlabel":"Product ID",
+      "ProductNameLabel":"Product Name",
+      "ProductDescriptionLabel":"Product Description",
+      "DefaultPriceScheduleIDLabel":"Default Price Schedule ID",
+      "EffectiveDateLabel":"Effective Date",
+      "ExpiryDatelabel":"Expiry Date",
+      "successmsg":"Product has been created successfully."
+   }
+}

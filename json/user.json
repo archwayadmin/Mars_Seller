@@ -1,0 +1,21 @@
+{ 
+   "testdata":{ 
+      "FirstName":"fname",
+      "LastName":"lname",
+      "Email":"test@yahoo.com",
+      "Username":"test_username1",
+      "UserGroup":"APPROVER",
+      "PhoneNumber":"1234567899",
+      "Department":"Marketing",
+      "CompanyName":"test",
+      "AddressName":"sample adddress",
+      "Address1":"dummy address1",
+      "Address2":"dummy address2",
+      "Country":"Canada",
+      "City":"test",
+      "State":"Alberta",
+      "ZipCode":"A1A1A1",
+      "Phone":"1234567899",
+      "Fax":"123"
+   }
+}

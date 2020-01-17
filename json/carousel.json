@@ -1,0 +1,13 @@
+{ 
+   "testdata":{ 
+      "successmsg":"Carousel Image uploaded successfully!",
+     "fileuploadpath":"./../../images/demo.jpg",
+     "title":"test",
+     "body":"test",
+     "recommendedsizetext":"Recommended Carousel Image Size: 1200px x 300px"
+     
+     
+     
+      
+ }
+}

@@ -1,0 +1,17 @@
+{ 
+   "testdata":{ 
+       "url":"https://archway-forduaw-seller-qa.azurewebsites.net/",
+      "username":"admin",
+      "password":"fails345",
+      "forgotpwd":"Forgot Password",
+      "contactus":"Contact Us",
+      "rememberme":"Remember Me",
+      "title":"FORD-UAW Buyer",
+      "userlabel":"User Name",
+      "accountLoginText":"Account Login",
+      "logout":"login",
+      "urltext":"home",
+      "logouturl":"https://archway-forduaw-qa.azurewebsites.net/login",
+      "homaepageurl":"https://archway-forduaw-qa.azurewebsites.net/home"
+   }
+}

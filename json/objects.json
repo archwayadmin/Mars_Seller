@@ -1,0 +1,69 @@
+{
+	"testsiteurl": "https://archway-premiernutrition-seller-qa.azurewebsites.net/products",
+	
+	"locators": {
+		"Loginpage": {
+			"username": "//input[@id='username']",
+			"password": "//input[@id='password']",
+			"submitBtn":"//button[@id='submitBtn']"
+			
+	},
+		
+		"AddProduct":{
+		
+		
+		},
+		
+		"AddCategory":{
+		
+		
+	 },
+	 
+	 "Address":{
+		
+		
+	 },
+	 
+	 "Announcement":{
+		
+		
+	 },
+	 
+	 "ApprovalRules":{
+		
+		
+	 },
+	 
+	 "CarouselSlides":{
+		
+		
+	 },
+	 
+	 "Catalogs":{
+		
+		
+	 },
+	 
+	 "OrderSummary":{
+		
+		
+	 },
+	 
+	 "UserGroup":{
+		
+		
+	 },
+	 
+	 "Users":{
+		
+		
+	 }
+		
+   },
+	
+"testdata": {
+			"username": "sysadmin_seller",
+			"password":"tmpadmin@123"
+			
+}
+}

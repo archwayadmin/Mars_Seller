@@ -1,0 +1,18 @@
+{ 
+   "testdata":{ 
+      "selectcountry":"Canada ",
+      "CategoryID":"tc_111",
+      "CategoryName":"test",
+      "CategoryDescription":"test",
+      "CategoriesText":"Categories",
+      "categoryurl":"https://archway-mars-seller-qa.azurewebsites.net/categories",
+      "categorylable":"Create A New Category",
+      "CategoryIDlabel":"Category ID",
+      "CategoryNamelabel":"Category Name",
+      "CategoryDescriptionlabel":"Category Description",
+      "successmsg":"Category has been created successfully."
+      
+     
+      
+ }
+}

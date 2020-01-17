@@ -1,0 +1,39 @@
+{
+	"name": "ProtractorTest",
+	"version": "0.0.0",
+	"description": "ProtractorTest",
+	"main": "app.js",
+	"author": {
+		"name": "Raman",
+		"email": ""
+	},
+	"devDependencies": {
+		"jasmine-allure-reporter": "e~0.2.3",
+		"jasmine-reporters": "~2.0.0",
+		"protractor": "~2.2.0",
+		"protractor-html-screenshot-reporter": "~0.0.21",
+		"protractor-jasmine2-html-reporter": "~0.0.5",
+		"protractor-jasmine2-screenshot-reporter": "^0.1.8",
+		"selenium-webdriver": "^2.47.1",
+		"winston": "^1.0.2"
+	},
+	"dependencies": {
+		"allure-commandline": "^2.13.0",
+		"axios": "^0.19.0",
+		"convert-excel-to-json": "^1.6.1",
+		"debug": "^4.1.1",
+		"exceljs": "^3.4.0",
+		"gulp": "^4.0.0",
+		"jasmine-data-provider": "^2.2.0",
+		"node-odt": "^1.0.1",
+		"nodemailer": "^6.3.1",
+		"path": "^0.12.7",
+		"promise": "^7.0.4",
+		"protractor-jasmine2-screenshot-reporter-2": "0.0.1",
+		"xlsx": "^0.15.1"
+	},
+	"engines": {
+		"node": "10.15.3",
+		"npm": "6.9.0"
+	}
+}

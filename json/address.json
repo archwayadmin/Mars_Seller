@@ -1,0 +1,16 @@
+{ 
+   "testdata":{ 
+      "selectcountry":" Canada",
+      "firstname":"test",
+      "LastName":"test",
+      "companyName":"test",
+      "address1":"address1",
+      "address2":"address2",
+      "CityName":"test",
+      "selectstate":"Alberta",
+      "zipCod":"A1A1A1",
+      "phoneNumber":"1234567899"
+     
+      
+  }
+}
